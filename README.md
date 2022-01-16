@@ -1,11 +1,11 @@
 # jpa02-sahilnaik1
 
 
-Repo: https://ucsb-cs156-w22/jpa02-sahilnaik1
+Repo: https://github.com/ucsb-cs156-w22/jpa02-sahilnaik1
 
-On Heroku: https://cs156-w22-jpa02-sahilnaik1.herokuapp.com
+On Heroku: https://jpa02-sahilnaik.herokuapp.com/
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-sahilnaik1
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-sahilnaik1
 
 
 # About this repo
